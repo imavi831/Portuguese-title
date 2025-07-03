@@ -49,7 +49,7 @@ CENSORED_WORDS_SET = {
     "piss,pissed,pissing", "popozão", "popozuda", "porra", "preto", 
     "pretinho, preta, pretinha", "punheta", "punheteiro", "punheteiro, punhetinha", 
     "pussy,pussies", "puta", "puta merda", "putaria", "putas", "putinha", 
-    "putona", "rabo", "rabuda", "rabeta", "rapariga", "raparigas", "rasgada", 
+    "putona", "rabo", "rabuda", "rabeta","Rabinho", "Rabinhos","rapariga", "raparigas", "rasgada", 
     "rasgadas", "rola", "rolas", "roludo", "safada", "sapata", "sapatão", 
     "screw", "seios", "semen", "sêmen", "sexo anal", "sexo grupal", "sexo oral", 
     "shit", "slut", "sperm", "spic", "squirt,er,ing", "suck", "suruba", 
