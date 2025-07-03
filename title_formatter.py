@@ -42,7 +42,7 @@ CENSORED_WORDS_SET = {
     "mulatinho, mulatinha", "mulher, mulher jovem", "mulher,mulheres madura,maduras,experiente,experientes", 
     "nádegas, bumbum, traseiro", "negão", "negões", "negona", "negonas", "neguinho, neguinha", 
     "negro, negra", "negro, preto", "nigger", "ninfeta", "ninfetinha", "novinha", 
-    "orgia", "orgias", "oriental", "pau", "pauzão", "pauzudo", "peitão", 
+    "orgia", "orgias", "pau", "pauzão", "pauzudo", "peitão", 
     "peitinho", "peitinhos", "peito", "peituda", "penis", "pênis", "pica", 
     "picas", "pintão", "pinto", "pintos", "pintudo", "piranha", "piranhas", 
     "piriguete", "piroca", "pirocada", "pirocudo", "pirocas", 
