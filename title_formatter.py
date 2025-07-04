@@ -32,7 +32,7 @@ CENSORED_WORDS_SET = {
     "esporrado", "faggot", "falo", "farra", "filho da mãe", "filho da puta", 
     "foda", "fode", "foder", "foderam", "fodem", "fodido", "fodilhon", "fodil hona",
     "fogosa", "fuck (any version)", "fuder", "fudeu", "fudido", "gang bang", 
-    "garganta profunda", "garoto, garota", "Garotas", "gay", "gook", "goza", "gozado", 
+    "garganta profunda", "garoto", "garota", "Garotas", "gay", "gook", "goza", "gozado", 
     "gozam", "gozar", "gozarão", "gozo", "grelo", "grupal", "homem,homens maduro,maduros,experiente,experientes", 
     "homossexual", "japa", "japinha", "japonesa,", "jerk off", "jizz", "jorrar", 
     "jorrando", "krl", "leitinho, surpresa cremosa", "lésbica", "lolita", 
