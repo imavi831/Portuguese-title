@@ -8,7 +8,7 @@ KEYWORDS = {
     'o', 'a', 'os', 'uma', 'umas', 'as', 'ao', 'aos', 'um', 'uns', 'às', 'à',
     'me', 'te', 'se', 'lhe', 'nos', 'vos', 'que', 'e', 'ou', 'com',
     'em', 'por', 'no', 'na', 'nas', 'mas', 'para', 'pelo', 'pelos',
-    'pela', 'pelas', 'sob', 'sobre', 'nem', 'entre', 'sem', 'de', 'do',
+    'pela', 'pelas', 'sob', 'nem', 'entre', 'sem', 'de', 'do',
     'da', 'dos', 'das'
 }
 
