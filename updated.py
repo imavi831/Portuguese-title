@@ -40,7 +40,7 @@ CENSORED_WORDS_SET = {
     "foderam", "fodem", "fodida", "fodidas", "fodido", "fodidos", "fodilhão",
     "fodilhona", "fudeu", "fuder", "fuderam", "fudida", "fudidas", "fudido",
     "fudidos", "gang bang", "garganta profunda", "garota", "garotas", "garoto",
-    "garotos", "goza", "gozada", "gozado", "gozam", "gozaram", "gozarão", "gozar",
+    "garotos", "goza", "gozada", "gozado","gozando", "gozam", "gozaram", "gozarão", "gozar",
     "gozo", "grelo", "grelos", "japa", "japas", "japinha", "japinhas", "jorrar",
     "jorrando", "leite", "leitinho", "lolita", "lolitas", "lolitinha", "lolitinhas",
     "m.i.l.f.s", "mamada", "mamam", "mamar", "mamaram", "mastro", "mastros", "merda",
